@@ -143,6 +143,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+medibot/
+.DS_Store
 
 # Spyder project settings
 .spyderproject
